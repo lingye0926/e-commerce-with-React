@@ -4,9 +4,9 @@ this is a website to help my family with their handmade music instruments. hope 
 ### tech stack: 
 frontend: react\
 backend : java springboot \
-database: mysql\
+database: mysql
 
 ### Packages used
 npm install @mui/icons-material\
 npm install scss\
-npm install react-router-dom\
+npm install react-router-dom
