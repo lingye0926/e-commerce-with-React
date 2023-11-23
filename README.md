@@ -72,13 +72,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+### Package used
 npm install @mui/icons-material
 npm install scss
 npm install react-router-dom
 
+### About this project
 this is a website to help my family with their handmade music instruments. hope with this website they can focus more on their handwork rather than the stock . 
 
-tech stack: 
+### tech stack: 
 frontend: react
 backend : java springboot 
 database: mysql
