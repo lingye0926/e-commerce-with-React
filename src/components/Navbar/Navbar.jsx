@@ -17,13 +17,13 @@ const Navbar = () => {
             <KeyboardArrowDown/>
           </div>
           <div className="items">
-            <Link className='link' to="/products/1">String Instruments</Link>
+            <Link className='link' to="/products/1">Bamboo Products</Link>
           </div>
           <div className="item">
-            <Link className='link' to= "/products/2">Wind Instruments</Link>
+            <Link className='link' to= "/products/2">Wood Products</Link>
           </div>
           <div className="item">
-            <Link className='link' to="/products/3">Other Instruments</Link>
+            <Link className='link' to="/products/3">Other Products</Link>
           </div>
         </div>
         <div className="center">
