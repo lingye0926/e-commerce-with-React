@@ -43,13 +43,5 @@ function App() {
     <RouterProvider router={router} />
   );
 }
-this is a Comment./*
-this is a local message to hceck Stash.
 
-this is a local message to hceck Stash1.
-this is new line to check stash.
-to be delete.
-check stash for local .
-this is a message to check stash.
-*/
 export default App;
